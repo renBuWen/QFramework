@@ -1,0 +1,11 @@
+{
+    "name": "QFramework.ActionKit",
+    "references": [
+        "QFramework.Pool",
+        "QFramework.Singleton",
+        "QFramework.Disposable",
+        "QFramework.Table"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
